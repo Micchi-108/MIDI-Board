@@ -68,7 +68,7 @@ The release ZIP contains:
 
 Python does not need to be installed to use the standalone executable.
 
-## Windows SmartScreen Warning
+## ⚠️⚠️ Windows SmartScreen Warning ⚠️⚠️
 
 Because Mik MIDI Board is a small, independently distributed application and the Windows executable is not currently code-signed, Windows SmartScreen may display a warning when you first run it.
 
