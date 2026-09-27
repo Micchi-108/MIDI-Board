@@ -1,3 +1,13 @@
+## ⚠️⚠️ Just a Notice ⚠️⚠️
+
+Building from source does not guarantee that Windows Smart App Control will allow the resulting executable to run. 
+PyInstaller-generated executables are not automatically code-signed, so Windows may still display a security warning or block the application depending on the user's security configuration.
+
+
+If you are comfortable running Python code and want to verify the application yourself, you can build the executable locally from the source code. 
+This allows you to inspect the source and create the executable yourself, but it does not automatically give the resulting executable a Microsoft-trusted reputation.
+
+
 # MIDI Board
 
 A (vibecoded) configurable MIDI pedalboard controller for Windows.
@@ -103,15 +113,6 @@ Build the application yourself from the source code if you want to verify the bu
 If you are unsure about where the application came from or why Windows is blocking it, do not run it.
 
 The application is currently distributed without a commercial code-signing certificate, so these warnings are expected on some Windows systems.
-
-## ⚠️⚠️ Just a Notice ⚠️⚠️
-
-Building from source does not guarantee that Windows Smart App Control will allow the resulting executable to run. 
-PyInstaller-generated executables are not automatically code-signed, so Windows may still display a security warning or block the application depending on the user's security configuration.
-
-
-If you are comfortable running Python code and want to verify the application yourself, you can build the executable locally from the source code. 
-This allows you to inspect the source and create the executable yourself, but it does not automatically give the resulting executable a Microsoft-trusted reputation.
 
 
 ## Building from source
