@@ -1,8 +1,11 @@
 ## ⚠️⚠️ Just a Notice ⚠️⚠️
 
+Also, make sure you have the latest windows update.
+Even though SAC blocks it when you run the program. On my side, it works now after running the exe while SAC is off then turn it on again.|
+You don't need to turn it off every time you want to use this.
+
 Building from source does not guarantee that Windows Smart App Control will allow the resulting executable to run. 
 PyInstaller-generated executables are not automatically code-signed, so Windows may still display a security warning or block the application depending on the user's security configuration.
-
 
 If you are comfortable running Python code and want to verify the application yourself, you can build the executable locally from the source code. 
 This allows you to inspect the source and create the executable yourself, but it does not automatically give the resulting executable a Microsoft-trusted reputation.
