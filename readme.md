@@ -153,10 +153,4 @@ settings.json
 
 The three files should be kept in the same folder when running the application.
 
-You can rename the generated executable to:
-
-```text
-MIDI Board.exe
-```
-
 Building from source is completely optional. The official Windows release already contains a standalone executable.
