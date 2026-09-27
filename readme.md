@@ -1,6 +1,6 @@
 ## MIDI Board
 
-A configurable MIDI pedalboard controller for Windows.
+A (vibecoded) configurable MIDI pedalboard controller for Windows.
 
 ## Features
 
