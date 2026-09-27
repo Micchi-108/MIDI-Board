@@ -34,13 +34,13 @@ So this is how this program was made.
 
 It's vibecoded to do what I need, and also found posts on Reddit asking about using the actual computer keyboard as a MIDI controller. So I thought, why not make something like that?
 
-## Requirements
+## Requirements ⚠️
 
 * Windows
 * Python 3.12 (only required if running from source)
 * A virtual MIDI port (loopMIDI) preferably
 
-### Python dependencies
+### Python dependencies ⚠️
 
 * mido
 * python-rtmidi
