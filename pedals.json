@@ -1,0 +1,298 @@
+{
+    "1": {
+        "type": "cc",
+        "number": 1,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "2": {
+        "type": "cc",
+        "number": 2,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "3": {
+        "type": "cc",
+        "number": 3,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "4": {
+        "type": "cc",
+        "number": 4,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "5": {
+        "type": "cc",
+        "number": 5,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "6": {
+        "type": "cc",
+        "number": 6,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "7": {
+        "type": "cc",
+        "number": 7,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "8": {
+        "type": "cc",
+        "number": 8,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "9": {
+        "type": "cc",
+        "number": 9,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "0": {
+        "type": "cc",
+        "number": 10,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "q": {
+        "type": "cc",
+        "number": 11,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "w": {
+        "type": "cc",
+        "number": 12,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "e": {
+        "type": "cc",
+        "number": 13,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "r": {
+        "type": "cc",
+        "number": 14,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "t": {
+        "type": "cc",
+        "number": 15,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "y": {
+        "type": "cc",
+        "number": 16,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "u": {
+        "type": "cc",
+        "number": 17,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "i": {
+        "type": "cc",
+        "number": 18,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "o": {
+        "type": "cc",
+        "number": 19,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "p": {
+        "type": "cc",
+        "number": 20,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "a": {
+        "type": "cc",
+        "number": 21,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "s": {
+        "type": "cc",
+        "number": 22,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "d": {
+        "type": "cc",
+        "number": 23,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "f": {
+        "type": "cc",
+        "number": 24,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "g": {
+        "type": "cc",
+        "number": 25,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "h": {
+        "type": "cc",
+        "number": 26,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "j": {
+        "type": "cc",
+        "number": 27,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "k": {
+        "type": "cc",
+        "number": 28,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "l": {
+        "type": "cc",
+        "number": 29,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "z": {
+        "type": "cc",
+        "number": 30,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "x": {
+        "type": "cc",
+        "number": 31,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "c": {
+        "type": "cc",
+        "number": 32,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "v": {
+        "type": "cc",
+        "number": 33,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "b": {
+        "type": "cc",
+        "number": 34,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "n": {
+        "type": "cc",
+        "number": 35,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "m": {
+        "type": "cc",
+        "number": 36,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    },
+    "space": {
+        "type": "cc",
+        "number": 60,
+        "channel": 1,
+        "mode": "momentary",
+        "on_value": 127,
+        "off_value": 0
+    }
+}
