@@ -10,7 +10,7 @@ This allows you to inspect the source and create the executable yourself, but it
 
 # MIDI Board
 
-A (vibecoded) configurable MIDI pedalboard controller for Windows.
+A (vibe coded) configurable MIDI pedalboard controller for Windows.
 
 ## Features
 
