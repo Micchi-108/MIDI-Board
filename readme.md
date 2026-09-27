@@ -101,7 +101,7 @@ Some Windows 11 systems have Smart App Control enabled. Unlike the normal SmartS
 
 If Smart App Control blocks Mik MIDI Board, you may see a message indicating that Windows prevented an untrusted or unknown application from running.
 
-[!IMPORTANT]
+⚠️⚠️⚠️⚠️
 Do not disable Smart App Control or Windows security features just to run Mik MIDI Board.
 
 If Windows blocks the application, you can instead:
