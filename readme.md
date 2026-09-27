@@ -85,6 +85,26 @@ Do not disable Windows Defender or other Windows security features globally just
 
 If you are unsure about a security warning or where the file came from, do not run it.
 
+## ⚠️⚠️ Windows Smart App Control ⚠️⚠️
+
+Some Windows 11 systems have Smart App Control enabled. Unlike the normal SmartScreen prompt, Smart App Control may block the application entirely because the executable is not currently code-signed or recognized by Microsoft's reputation system.
+
+If Smart App Control blocks Mik MIDI Board, you may see a message indicating that Windows prevented an untrusted or unknown application from running.
+
+[!IMPORTANT]
+Do not disable Smart App Control or Windows security features just to run Mik MIDI Board.
+
+If Windows blocks the application, you can instead:
+
+Verify that you downloaded the ZIP from the official GitHub Releases page.
+Check that the files have not been modified or replaced.
+Build the application yourself from the source code if you want to verify the build process.
+
+If you are unsure about where the application came from or why Windows is blocking it, do not run it.
+
+The application is currently distributed without a commercial code-signing certificate, so these warnings are expected on some Windows systems.
+
+
 ## Building from source
 
 If you would rather build the executable yourself, you can download the source code from this repository.
