@@ -1,6 +1,6 @@
 ## ⚠️⚠️ Just a Notice ⚠️⚠️
 
-Also, make sure you have the latest windows update.
+Make sure you have the latest windows update.
 Even though SAC blocks it when you run the program. On my side, it works now after running the exe while SAC is off then turn it on again.|
 You don't need to turn it off every time you want to use this.
 
