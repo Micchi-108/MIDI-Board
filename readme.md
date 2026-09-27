@@ -62,7 +62,7 @@ A standalone Windows executable is available in the **Releases** section.
 
 The release ZIP contains:
 
-* `MikMIDI.exe`
+* `MIDI Board.exe`
 * `pedals.json`
 * `settings.json`
 
@@ -70,13 +70,13 @@ Python does not need to be installed to use the standalone executable.
 
 ## ⚠️⚠️ Windows SmartScreen Warning ⚠️⚠️
 
-Because Mik MIDI Board is a small, independently distributed application and the Windows executable is not currently code-signed, Windows SmartScreen may display a warning when you first run it.
+Because  MIDI Board is a small, independently distributed application and the Windows executable is not currently code-signed, Windows SmartScreen may display a warning when you first run it.
 
 If you downloaded the application from the project's official GitHub Releases page and have verified that it is the correct release, you can proceed as follows:
 
 1. Extract the downloaded ZIP.
 2. Open the extracted folder.
-3. Run `MikMIDI.exe`.
+3. Run `MIDI Board.exe`.
 4. If Windows displays **"Windows protected your PC"**, click **More info**.
 5. Windows should then show additional information about the application.
 6. If you have verified that you downloaded the correct release, you can choose **Run anyway**.
@@ -126,7 +126,7 @@ The three files should be kept in the same folder when running the application.
 You can rename the generated executable to:
 
 ```text
-MikMIDI.exe
+MIDI Board.exe
 ```
 
 Building from source is completely optional. The official Windows release already contains a standalone executable.
