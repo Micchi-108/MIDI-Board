@@ -38,7 +38,7 @@ It's vibecoded to do what I need, and also found posts on Reddit asking about us
 
 * Windows
 * Python 3.12 (only required if running from source)
-* A MIDI device or virtual MIDI port
+* A virtual MIDI port (loopMIDI) preferably
 
 ### Python dependencies
 
