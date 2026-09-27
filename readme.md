@@ -18,12 +18,11 @@ A (vibecoded) configurable MIDI pedalboard controller for Windows.
 ## Silly project?
 
 I was thinking about doing something like this for a long time, ever since I got my hands on an audio interface and Neural DSP.
+I thought it was tedious to have to use a mouse just to turn an effect on or off in NDSP. 
+Looked into MIDI pedals, but thought, "ehh, kinda expensive."
+So this is how this program was made.
 
-I thought it was kind of silly to have to click with a mouse just to turn an effect on or off in NDSP. I looked into getting physical MIDI pedals, but thought, "ehh, kinda expensive."
-
-So this program was the result.
-
-It's vibecoded to do what I need, and I also found some people on Reddit asking about using the actual computer keyboard as a MIDI controller. So I figured, why not make something that does both?
+It's vibecoded to do what I need, and also found posts on Reddit asking about using the actual computer keyboard as a MIDI controller. So I thought, why not make something like that?
 
 ## Requirements
 
